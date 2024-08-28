@@ -1,0 +1,464 @@
+[
+  {
+    "image": "",
+    "name": "Cristina Bergnaum",
+    "position": "GK",
+    "rating": "85",
+    "skill": {
+      "passing": "80",
+      "shooting": "89",
+      "tackling": "97",
+      "saving": "89",
+      "agility": "95",
+      "strength": "90",
+      "penaltyTaking": "85",
+      "jumping": "80"
+    },
+    "currentPOS": [
+      60,
+      77
+    ],
+    "fitness": 84,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Carolyn Morissette",
+    "position": "RM",
+    "rating": "81",
+    "skill": {
+      "passing": "94",
+      "shooting": "92",
+      "tackling": "95",
+      "saving": "84",
+      "agility": "84",
+      "strength": "83",
+      "penaltyTaking": "81",
+      "jumping": "97"
+    },
+    "currentPOS": [
+      30,
+      81
+    ],
+    "fitness": 90,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Mildred Douglas",
+    "position": "GK",
+    "rating": "92",
+    "skill": {
+      "passing": "96",
+      "shooting": "88",
+      "tackling": "89",
+      "saving": "80",
+      "agility": "82",
+      "strength": "88",
+      "penaltyTaking": "92",
+      "jumping": "97"
+    },
+    "currentPOS": [
+      51,
+      26
+    ],
+    "fitness": 89,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Audrey Hilpert V",
+    "position": "LM",
+    "rating": "98",
+    "skill": {
+      "passing": "95",
+      "shooting": "95",
+      "tackling": "87",
+      "saving": "89",
+      "agility": "93",
+      "strength": "89",
+      "penaltyTaking": "95",
+      "jumping": "95"
+    },
+    "currentPOS": [
+      70,
+      12
+    ],
+    "fitness": 100,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Boyd Schuster",
+    "position": "CAM",
+    "rating": "91",
+    "skill": {
+      "passing": "98",
+      "shooting": "82",
+      "tackling": "82",
+      "saving": "82",
+      "agility": "93",
+      "strength": "98",
+      "penaltyTaking": "95",
+      "jumping": "80"
+    },
+    "currentPOS": [
+      65,
+      76
+    ],
+    "fitness": 100,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Daryl Koch",
+    "position": "LM",
+    "rating": "81",
+    "skill": {
+      "passing": "97",
+      "shooting": "98",
+      "tackling": "99",
+      "saving": "91",
+      "agility": "87",
+      "strength": "92",
+      "penaltyTaking": "82",
+      "jumping": "85"
+    },
+    "currentPOS": [
+      31,
+      87
+    ],
+    "fitness": 92,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Christine Littel",
+    "position": "RW",
+    "rating": "97",
+    "skill": {
+      "passing": "81",
+      "shooting": "90",
+      "tackling": "87",
+      "saving": "80",
+      "agility": "95",
+      "strength": "99",
+      "penaltyTaking": "87",
+      "jumping": "82"
+    },
+    "currentPOS": [
+      54,
+      25
+    ],
+    "fitness": 95,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Danielle DuBuque",
+    "position": "GK",
+    "rating": "97",
+    "skill": {
+      "passing": "86",
+      "shooting": "91",
+      "tackling": "88",
+      "saving": "88",
+      "agility": "87",
+      "strength": "81",
+      "penaltyTaking": "91",
+      "jumping": "88"
+    },
+    "currentPOS": [
+      79,
+      47
+    ],
+    "fitness": 89,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "May Haag",
+    "position": "CM",
+    "rating": "98",
+    "skill": {
+      "passing": "80",
+      "shooting": "98",
+      "tackling": "93",
+      "saving": "96",
+      "agility": "84",
+      "strength": "89",
+      "penaltyTaking": "81",
+      "jumping": "91"
+    },
+    "currentPOS": [
+      78,
+      39
+    ],
+    "fitness": 97,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Floyd Kling",
+    "position": "CDM",
+    "rating": "90",
+    "skill": {
+      "passing": "87",
+      "shooting": "87",
+      "tackling": "87",
+      "saving": "89",
+      "agility": "94",
+      "strength": "97",
+      "penaltyTaking": "95",
+      "jumping": "81"
+    },
+    "currentPOS": [
+      73,
+      24
+    ],
+    "fitness": 100,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Clyde Wolf V",
+    "position": "RM",
+    "rating": "82",
+    "skill": {
+      "passing": "95",
+      "shooting": "82",
+      "tackling": "83",
+      "saving": "96",
+      "agility": "85",
+      "strength": "97",
+      "penaltyTaking": "83",
+      "jumping": "97"
+    },
+    "currentPOS": [
+      35,
+      99
+    ],
+    "fitness": 95,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Kate Cormier",
+    "position": "LB",
+    "rating": "96",
+    "skill": {
+      "passing": "97",
+      "shooting": "84",
+      "tackling": "97",
+      "saving": "86",
+      "agility": "98",
+      "strength": "92",
+      "penaltyTaking": "93",
+      "jumping": "88"
+    },
+    "currentPOS": [
+      29,
+      84
+    ],
+    "fitness": 80,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Sylvia Leannon",
+    "position": "RB",
+    "rating": "95",
+    "skill": {
+      "passing": "89",
+      "shooting": "81",
+      "tackling": "86",
+      "saving": "88",
+      "agility": "88",
+      "strength": "94",
+      "penaltyTaking": "99",
+      "jumping": "86"
+    },
+    "currentPOS": [
+      96,
+      73
+    ],
+    "fitness": 87,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Jerry Terry Sr.",
+    "position": "RM",
+    "rating": "90",
+    "skill": {
+      "passing": "85",
+      "shooting": "80",
+      "tackling": "88",
+      "saving": "82",
+      "agility": "90",
+      "strength": "85",
+      "penaltyTaking": "98",
+      "jumping": "97"
+    },
+    "currentPOS": [
+      45,
+      87
+    ],
+    "fitness": 94,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Preston Pagac",
+    "position": "RB",
+    "rating": "89",
+    "skill": {
+      "passing": "97",
+      "shooting": "99",
+      "tackling": "82",
+      "saving": "90",
+      "agility": "85",
+      "strength": "84",
+      "penaltyTaking": "82",
+      "jumping": "89"
+    },
+    "currentPOS": [
+      38,
+      75
+    ],
+    "fitness": 91,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Rex Jones",
+    "position": "LB",
+    "rating": "90",
+    "skill": {
+      "passing": "85",
+      "shooting": "94",
+      "tackling": "86",
+      "saving": "84",
+      "agility": "81",
+      "strength": "87",
+      "penaltyTaking": "95",
+      "jumping": "96"
+    },
+    "currentPOS": [
+      60,
+      88
+    ],
+    "fitness": 99,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Latoya Konopelski",
+    "position": "LW",
+    "rating": "87",
+    "skill": {
+      "passing": "97",
+      "shooting": "97",
+      "tackling": "87",
+      "saving": "92",
+      "agility": "99",
+      "strength": "86",
+      "penaltyTaking": "91",
+      "jumping": "83"
+    },
+    "currentPOS": [
+      35,
+      10
+    ],
+    "fitness": 96,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Veronica Conn",
+    "position": "CDM",
+    "rating": "98",
+    "skill": {
+      "passing": "98",
+      "shooting": "81",
+      "tackling": "86",
+      "saving": "84",
+      "agility": "94",
+      "strength": "95",
+      "penaltyTaking": "97",
+      "jumping": "80"
+    },
+    "currentPOS": [
+      92,
+      9
+    ],
+    "fitness": 97,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Jeffrey Casper",
+    "position": "CDM",
+    "rating": "98",
+    "skill": {
+      "passing": "89",
+      "shooting": "97",
+      "tackling": "99",
+      "saving": "85",
+      "agility": "91",
+      "strength": "99",
+      "penaltyTaking": "83",
+      "jumping": "95"
+    },
+    "currentPOS": [
+      6,
+      50
+    ],
+    "fitness": 86,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Alton Halvorson",
+    "position": "ST",
+    "rating": "93",
+    "skill": {
+      "passing": "96",
+      "shooting": "90",
+      "tackling": "81",
+      "saving": "96",
+      "agility": "94",
+      "strength": "89",
+      "penaltyTaking": "90",
+      "jumping": "81"
+    },
+    "currentPOS": [
+      32,
+      9
+    ],
+    "fitness": 96,
+    "injured": false
+  },
+  {
+    "image": "",
+    "name": "Keith Connelly",
+    "position": "LW",
+    "rating": "94",
+    "skill": {
+      "passing": "96",
+      "shooting": "81",
+      "tackling": "97",
+      "saving": "98",
+      "agility": "83",
+      "strength": "85",
+      "penaltyTaking": "95",
+      "jumping": "93"
+    },
+    "currentPOS": [
+      4,
+      58
+    ],
+    "fitness": 92,
+    "injured": false
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Serie A",
+    "country": "Italy",
+    "numberOfTeams": 20,
+    "currentChampion": "Napoli",
+    "topScorer": [
+      
+    ],
+    "topAssistMan": [
+      
+    ],
+    "topCleanSheet": [
+      
+    ],
+    "founded": 1898,
+    "format": "Round-robin",
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "city": "Milan",
+        "stadium": "San Siro",
+        "manager": "Stefano Pioli",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Atalanta",
+        "city": "Bergamo",
+        "stadium": "Gewiss Stadium",
+        "manager": "Giampiero Gasperini",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Bologna",
+        "city": "Bologna",
+        "stadium": "Renato dall'Ara",
+        "manager": "Thiago Motta",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Cagliari",
+        "city": "Cagliari",
+        "stadium": "Unipol Domus",
+        "manager": "Claudio Ranieri",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Empoli",
+        "city": "Empoli",
+        "stadium": "Carlo Castellani",
+        "manager": "Davide Nicola",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Fiorentina",
+        "city": "Firenze",
+        "stadium": "Artemio Franchi",
+        "manager": "Vincenzo Italiano",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Frosinone",
+        "city": "Frosinone",
+        "stadium": "Benito Stirpe",
+        "manager": "Eusebio Di Francesco",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Genoa",
+        "city": "Genova",
+        "stadium": "Luigi Ferraris",
+        "manager": "Alberto Gilardino",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Hellas Verona",
+        "city": "Verona",
+        "stadium": "Marcantonio Bentegodi",
+        "manager": "Marco Baroni",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Inter Milan",
+        "city": "Milan",
+        "stadium": "San Siro",
+        "manager": "Simone Inzaghi",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Juventus",
+        "city": "Turin",
+        "stadium": "Allianz Stadium",
+        "manager": "Massimiliano Allegri",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Lazio",
+        "city": "Roma",
+        "stadium": "Stadio Olimpico",
+        "manager": "Maurizio Sarri",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Lecce",
+        "city": "Lecce",
+        "stadium": "Via del Mare",
+        "manager": "Luca Gotti",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Monza",
+        "city": "Monza",
+        "stadium": "U-Power Stadium",
+        "manager": "Raffaele Palladino",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Napoli",
+        "city": "Napoli",
+        "stadium": "Diego Armando Maradona",
+        "manager": "Francesco Calzona",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Roma",
+        "city": "Roma",
+        "stadium": "Stadio Olimpico",
+        "manager": "Daniele De Rossi",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Salernitana",
+        "city": "Salerno",
+        "stadium": "Arechi",
+        "manager": "Stefano Colantuono",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Sassuolo",
+        "city": "Sassuolo",
+        "stadium": "Mapei Stadium",
+        "manager": "Davide Ballardini",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Torino",
+        "city": "Torino",
+        "stadium": "Olimpico Grande Torino",
+        "manager": "Ivan Jurić",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      },
+      {
+        "name": "Udinese",
+        "city": "Udine",
+        "stadium": "Bluenergy Stadium",
+        "manager": "Fabio Cannavaro",
+        "matchesWon": 0,
+        "matchesDrawn": 0,
+        "matchesLost": 0,
+        "players": []
+      }
+    ]
+  }
+]
